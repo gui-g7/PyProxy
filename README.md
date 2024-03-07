@@ -5,7 +5,7 @@
 Um Proxy é um intermediário entre o cliente e o servidor, ele pode visualizar, salvar ou filtrar qualquer conteúdo que você estiver acessando.
 Normalmente é usado nas redes de empresas, elas usam essa filtragem de conteúdo para proteger os sistemas da empresa de malwares.
 
-## Propsta
+## Proposta
 
 Nesse projeto eu crio um proxy que salva toda troca de informações, mas para simplifica-lo eu limitei ele a apenas uma porta do navegador, criando assim o proxy mais simples possível.
 
